@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "bfzyapi",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "http://bfzy.tv/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
